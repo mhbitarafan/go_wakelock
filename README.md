@@ -1,5 +1,6 @@
 # go_wakelock
 prevent windows from turnning off monitor and sleep
+
 minimum go version **1.18**
 # Install
 `go get github.com/mhbitarafan/go_wakelock`
